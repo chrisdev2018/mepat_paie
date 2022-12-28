@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+  <data>
+		<report
+		    id="report_dipe_mensuel_xls"
+		    model="mepat_paie.statistiques_wizard"
+		    string="Dipe Mensuel"
+		    report_type="xls"
+		    name="mepat_paie.dipes_mensuel.xls"
+		    file="mepat_paie.dipes_mensuel.xls"
+		    attachment_use="False"
+		/>
+
+
+	</data>
+</odoo>

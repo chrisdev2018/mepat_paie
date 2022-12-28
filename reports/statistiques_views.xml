@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+  <data>
+		<report
+		    id="report_statistique_xls"
+		    model="mepat_paie.statistiques_wizard"
+		    string="Statistique paie"
+		    report_type="xls"
+		    name="mepat_paie.statistiques_wizard.xls"
+		    file="mepat_paie.statistiques_wizard.xls"
+		    attachment_use="False"
+		/>
+
+
+	</data>
+</odoo>

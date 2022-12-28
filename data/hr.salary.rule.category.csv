@@ -1,0 +1,15 @@
+id,name,code,parent_id/id,note
+mepat_paie.hr_salary_rule_category_12,Retenues diverses,DIVERS,,
+mepat_paie.hr_salary_rule_category_13,Cumuls,CUMULS,,
+mepat_paie.hr_salary_rule_category_14,Déduction,DED,,
+mepat_paie.hr_salary_rule_category_15,Primes & Indemnités,PRIMES,,
+mepat_paie.hr_salary_rule_category_16,Base,BASE,,
+mepat_paie.hr_salary_rule_category_17,Brut,BRUT,,
+mepat_paie.hr_salary_rule_category_18,Cotisations,COT,,
+mepat_paie.hr_salary_rule_category_19,Net,NET,,
+mepat_paie.hr_salary_rule_category_20,Partiellement taxable,PART_TAX,,
+mepat_paie.hr_salary_rule_category_7,Assiètte du SBT,ELT_SBT,mepat_paie.hr_salary_rule_category_15,Regroupera les primes ou indemnités qui serviront à calculer le salaire brut taxable
+mepat_paie.hr_salary_rule_category_8,Assiette du SC,ELT_SC,mepat_paie.hr_salary_rule_category_15,Regroupera les primes ou indemnités qui serviront à calculer le salaire cotisable
+mepat_paie.hr_salary_rule_category_9,Assiètte du SBT&SC,ELT_SBT_SC,mepat_paie.hr_salary_rule_category_15,Regroupera les primes ou indemnités qui serviront à calculer les salaires brut taxable et cotisable
+mepat_paie.hr_salary_rule_category_10,Charges Salariales,CHG_SAL,mepat_paie.hr_salary_rule_category_18,
+mepat_paie.hr_salary_rule_category_11,Charges Patronales,CHG_PAT,mepat_paie.hr_salary_rule_category_18,
